@@ -1,0 +1,16 @@
+{
+  "name": "projeto-metadados-node",
+  "version": "1.0.0",
+  "description": "Sistema de extração de metadados com Node.js usando RegEx",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Priscila Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
